@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Cafe Website**
 
-- 🌱 I’m currently learning **Flutter , Kotlin , Java**
+- 🌱 I’m currently learning **Kotlin , Java , Angular**
 
 - 💬 Ask me about **Java**
 
