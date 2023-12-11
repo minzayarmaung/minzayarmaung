@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Cafe Website**
 
-- 🌱 I’m currently learning **Python , Java , Angular**
+- 🌱 I’m currently learning **Python , Java , Angular , Kotlin , Javascript**
 
 - 💬 Ask me about **Java**
 
