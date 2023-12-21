@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Python , Java , Angular , Kotlin , Javascript**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java , Python**
 
 - 📫 How to reach me **minzayarmaung2002@gmail.com**
 
