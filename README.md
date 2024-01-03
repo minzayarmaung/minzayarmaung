@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java , Python**
 
-- 😉 Favorite programming language **Python**
+- 😉 Favorite programming languages are **Python , Java**
 
 - 📫 How to reach me **minzayarmaung2002@gmail.com**
 
