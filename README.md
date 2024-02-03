@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Min Zayar Maung</h1>
-<h3 align="center">An Average Family Guy Enjoyer developer who identifies himself as Batman from Myanmar</h3>
+<h3 align="center">An Average Family Guy Enjoyer developer from Myanmar</h3>
 
 ![lofigif](https://www.icegif.com/wp-content/uploads/2021/11/icegif-612.gif)
 
