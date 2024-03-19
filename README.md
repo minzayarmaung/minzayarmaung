@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Store System**
 
-- 🌱 I’m currently learning **Python , Java , Angular , Microservices , Javascript**
+- 🌱 I’m currently learning **Python , Java , Angular , Microservices , Javascript , AWS**
 
 - 💬 Ask me about **Java , Python**
 
