@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Min Zayar Maung</h1>
-<h3 align="center">An Average Family Guy Enjoyer developer from Myanmar</h3>
+<h3 align="center">An Average Rick and Morty Enjoyer developer from Myanmar</h3>
 
 ![lofigif](https://64.media.tumblr.com/cb6e56b0e814fc37fafabaaaa85609ac/tumblr_nwh6zhn2nN1ujuk5ho1_1280.gif)
 
