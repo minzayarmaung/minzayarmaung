@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Min Zayar Maung</h1>
 <h3 align="center">An Average Family Guy Enjoyer developer from Myanmar</h3>
 
-![lofigif](https://i.pinimg.com/originals/30/d0/f7/30d0f76eaf15e28b788086a305c78222.gif)
+![lofigif](https://64.media.tumblr.com/cb6e56b0e814fc37fafabaaaa85609ac/tumblr_nwh6zhn2nN1ujuk5ho1_1280.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20views&color=0e75b6&style=flat" alt="minzayarmaung" /> </p>
 
