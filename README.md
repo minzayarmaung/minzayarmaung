@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Min Zayar Maung</h1>
 <h3 align="center">An Average Rick and Morty Enjoyer developer from Myanmar</h3>
 
-![lofigif](https://images.squarespace-cdn.com/content/v1/56f34470b73abea60838ee99/1604094625964-5B7JOL7UBM2BHW07G521/01_1_1.gif)
+![lofigif](https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/4afe41a2-ffce-4b8f-c192-f431d0586800/w=640)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20views&color=0e75b6&style=flat" alt="minzayarmaung" /> </p>
 
