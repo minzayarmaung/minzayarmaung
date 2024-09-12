@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20views&color=0e75b6&style=flat" alt="minzayarmaung" /> </p>
 
-- 🔭 I’m currently working on **Connect HCM , HCMEE Softwares**
+- 🔭 I’m currently working on **Connect HCM , HCMEE Software**
 
 - 🌱 I’m currently learning **Java , Angular , Microservices , Javascript , Flutter**
 
