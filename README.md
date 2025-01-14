@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Min Zayar Maung</h1>
+<h1 align="center">Hi 👋, I'm Min Zayar Maung.</h1>
 <h3 align="center">An Average Passionated Rick and Morty Enjoyer Developer from Myanmar</h3>
 
 <p align="center">
