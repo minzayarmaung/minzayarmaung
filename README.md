@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Min Zayar Maung.</h1>
-<h3 align="center">An Average Passionated Rick and Morty Enjoyer Developer from Myanmar</h3>
+<h3 align="center">An Average Passionated Rick and Morty Enjoyer Developer from Myanmar.</h3>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+sarif&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hey+Guys+!!!;I'm+Min+Zayar+Maung;A+Passionate_Software_Developer+and+a+Cat+Person" alt="Typing SVG" /></a>
