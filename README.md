@@ -6,7 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sans+sarif&weight=600&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hey+Guys+!;I'm+Min+Zayar+Maung;A+Passionate_Software_Developer+and+a+Cat+Person" alt="Typing SVG" /></a>
 </p>
 
-
 ![lofigif](https://i.pinimg.com/originals/4a/bc/3c/4abc3c8afd93c5cce42e7a8045a19f97.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20views&color=0e75b6&style=flat" alt="minzayarmaung" /> </p>
