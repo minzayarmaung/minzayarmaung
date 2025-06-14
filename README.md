@@ -31,4 +31,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minzayarmaung&show_icons=true&locale=en&layout=compact" alt="minzayarmaung" /></p>
 
 
-![Marquee](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
