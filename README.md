@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minzayarmaung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minzayarmaung.dev2002@gmail.com) 
 
 
-<div align="center">
+<div align="left">
   <br>
   <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20Views&color=0891b2&style=for-the-badge&logo=github" alt="Profile Views" />
   <br>
