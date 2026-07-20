@@ -1,34 +1,156 @@
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Min+Zayar+Maung+👋;Software+Engineer+%7C+Fintech+Developer;Java+%7C+Spring+Boot+%7C+Angular+%7C+Cloud" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minzayarmaung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minzayarmaung.dev2002@gmail.com) 
+<table width="100%">
+<tr>
 
-<img width="320" height="240" alt="494815929-e054d744-f705-46a2-9a48-d6c3503c38e7" src="https://github.com/user-attachments/assets/c2ed22de-d7d0-406f-8229-689ff2fc4b66" />
+<td width="45%" align="center" valign="top">
 
-<div  align="left">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20Views&color=0891b2&style=for-the-badge&logo=github" alt="Profile Views" />
-  <br>
-  <br>
-</div>
+<img 
+width="100%" 
+src="https://github.com/user-attachments/assets/c2ed22de-d7d0-406f-8229-689ff2fc4b66" 
+/>
+
+<br/>
+
+<a href="https://linkedin.com/in/minzayarmaung">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:minzayarmaung.dev2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=minzayarmaung&label=Profile%20Views&color=0891b2&style=flat-square&logo=github"/>
+
+</td>
 
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=minzayarmaung&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=minzayarmaung&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=minzayarmaung&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<td width="55%" valign="top">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=minzayarmaung&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<h2>👨‍💻 About Me</h2>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Software Engineer specializing in Backend Development, Fintech Systems and Enterprise Applications.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=minzayarmaung&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<br/>
+
+<h3>💼 Professional Experience</h3>
+
+<table>
+
+<tr>
+<td>🏢</td>
+<td>
+<b>Software Engineer</b><br/>
+Modus Operandi<br/>
+<i>Fintech Developer</i>
+</td>
+</tr>
+
+<tr>
+<td>🏢</td>
+<td>
+<b>Former Software Engineer</b><br/>
+ACE Japan
+</td>
+</tr>
+
+<tr>
+<td>🏢</td>
+<td>
+<b>Former Software Engineer</b><br/>
+Myanmar Information Technology (MIT)
+</td>
+</tr>
+
+</table>
+
+
+<h3>🔥 Current Focus</h3>
+
+<ul>
+<li>Java 21 + Spring Boot Enterprise Applications</li>
+<li>Fintech & Microfinance Systems</li>
+<li>Angular Frontend Architecture</li>
+<li>Cloud Infrastructure & DevOps</li>
+</ul>
+
+
+</td>
+
+</tr>
+</table>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=minzayarmaung&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Analytics
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=minzayarmaung&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+</td>
+
+<td width="50%">
+<img src="https://nirzak-streak-stats.vercel.app/?user=minzayarmaung&theme=tokyonight&hide_border=true"/>
+</td>
+
+</tr>
+</table>
+
+
+---
+
+## 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+
+---
+
+## 📈 Development Insights
+
+<table width="100%">
+<tr>
+
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzayarmaung&theme=tokyonight&hide_border=true&layout=compact"/>
+</td>
+
+<td width="50%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minzayarmaung&theme=tokyo-night"/>
+</td>
+
+</tr>
+</table>
+
+
+---
+
+## 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=minzayarmaung&theme=tokyonight&no-frame=true&margin-w=4"/>
+
+
+---
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
