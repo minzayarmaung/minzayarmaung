@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/minzayarmaung) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minzayarmaung.dev2002@gmail.com) 
 
+<img width="320" height="240" alt="494815929-e054d744-f705-46a2-9a48-d6c3503c38e7" src="https://github.com/user-attachments/assets/c2ed22de-d7d0-406f-8229-689ff2fc4b66" />
 
 <div  align="left">
   <br>
