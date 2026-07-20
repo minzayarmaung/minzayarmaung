@@ -51,6 +51,9 @@ ACE Japan
 🏢 **Former Software Engineer**  
 Myanmar Information Technology (MIT)
 
+🏢 **Internship Developer**  
+2C2P ( Thailand )
+
 ---
 
 ### 🚀 Currently Working On
