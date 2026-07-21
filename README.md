@@ -38,9 +38,8 @@ Backend Software Engineer specializing in **Java, Spring Boot, Angular and Finte
 
 ## 💼 Experience
 
-🏦 **Software Engineer**  
+🏦 **Software Engineer / *Fintech Developer***  
 **Modus Operandi**  
-*Fintech Developer*
 
 🏢 **Product Owner / Backend Lead**  
 One Project One Month
