@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Min+Zayar+Maung+👋;Software+Engineer;Java+%7C+Spring+Boot+%7C+Angular;Fintech+Developer;Always+Learning+Something+New+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Min+Zayar+Maung+👋;Software+Engineer;Java+%7C+Spring+Boot+%7C+Angular;React+%7C+Next.js+%7C+C%23+%7C+Python;Fintech+Developer;Always+Learning+Something+New+🚀" />
 </p>
 
 <table width="100%">
