@@ -44,7 +44,7 @@ Backend Software Engineer specializing in **Java, Spring Boot, Angular and Finte
 🏢 **Product Owner / Backend Lead**  
 One Project One Month
 
-🏢 **Former Software Engineer**  
+🏢 **Former Mid-Lvl Software Engineer**  
 ACE Japan
 
 🏢 **Former Software Engineer**  
