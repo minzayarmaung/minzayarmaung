@@ -57,8 +57,8 @@ Myanmar Information Technology (MIT)
 
 ### 🚀 Currently Working On
 
+- Indie Pixel Games Development
 - Enterprise Java Applications
-- Spring Boot Microservices
 - Fintech & Loan Management Systems
 - Angular Frontend Development
 - Cloud & DevOps
