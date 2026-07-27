@@ -38,9 +38,17 @@ Welcome! Feel free to explore my projects and experiments.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=minzayarmaung&style=for-the-badge&color=0891b2"/>
+
+<!-- <img
+src="https://github.com/user-attachments/assets/c2ed22de-d7d0-406f-8229-689ff2fc4b66"
+width="100%"
+alt="Profile GIF"
+/> -->
+
+<img width="442" height="446" alt="rick-roll-rick-astley" src="https://github.com/user-attachments/assets/339aea3b-d8ab-4d95-8789-ccffe102b111" />
+
 
 </td>
 
