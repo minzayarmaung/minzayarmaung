@@ -162,7 +162,7 @@ I enjoy solving real-world business problems using clean architecture, maintaina
 
 <!-- [game-name] -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minzayarmaung/minzayarmaung/output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/minzayarmaung/minzayarmaung/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minzayarmaung/minzayarmaung/output/[game-name]-contribution-graph.svg">
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/minzayarmaung/minzayarmaung/output/[game-name]-contribution-graph.svg">
 </picture>
