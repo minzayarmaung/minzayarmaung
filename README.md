@@ -48,8 +48,8 @@ width="100%"
 alt="Profile GIF"
 /> -->
 
-<img width="299" height="2" alt="line-neon" src="https://github.com/user-attachments/assets/e060949f-c639-4fdd-a680-8cf2382cbe1e" />
-<img width="442" height="446" alt="rick-roll-rick-astley" src="https://github.com/user-attachments/assets/339aea3b-d8ab-4d95-8789-ccffe102b111" />
+<!-- <img width="299" height="2" alt="line-neon" src="https://github.com/user-attachments/assets/e060949f-c639-4fdd-a680-8cf2382cbe1e" /> -->
+<!-- <img width="442" height="446" alt="rick-roll-rick-astley" src="https://github.com/user-attachments/assets/339aea3b-d8ab-4d95-8789-ccffe102b111" /> -->
 
 <!-- <b> Me when I code</b>
 <img width="200" height="200" alt="happy" src="https://github.com/user-attachments/assets/30cf9f5c-bca1-441f-9017-71766042d1a7" /> -->
