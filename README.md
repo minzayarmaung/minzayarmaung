@@ -27,7 +27,7 @@ alt="Me as a Cat"
 />
 
 <p>
-<b>Curious enough to check out my GitHub? 😼</b><br>
+<b>Curious enough to check out my GitHub? 😼 </b><br>
 Welcome! Feel free to explore my projects and experiments.
 </p>
 
